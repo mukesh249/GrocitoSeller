@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "188355245213",
+    "firebase_url": "https://groctiorider.firebaseio.com",
+    "project_id": "groctiorider",
+    "storage_bucket": "groctiorider.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188355245213:android:c0b422764114b3f3",
+        "android_client_info": {
+          "package_name": "in.wingstud.grocitoseller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "188355245213-50v4n7lic26a3vha2j76t5ga7ocf357u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.wingstud.grocitoseller",
+            "certificate_hash": "35d2a51013cf7a9c9090d78bf74969d987dff620"
+          }
+        },
+        {
+          "client_id": "188355245213-r97lo3o6i1jfp3up54q6kgmcpaj2rn0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd1X6XaGkCKzO2aDnfy2Nn_BCN98B4b_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "188355245213-r97lo3o6i1jfp3up54q6kgmcpaj2rn0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
